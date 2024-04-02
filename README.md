@@ -10,4 +10,5 @@
 - NOTE:ALL OF THE ABOVE COMMANDS SHOULD BE RUN ON THE CREATED FOLDER/DIRECTORY WHERE WE INITIALIZE NODE,NPM etc
 - now make a new subdurectory in this main directory with name in ALL LOWERCASE LETTERS(this is the nam of the application)
     - go inside this directory and run `create-react-app ./` to make the react app with this name and directory
+    - again do `npm fund`
 - running the file- use `node <filename-with-extension>`
