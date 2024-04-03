@@ -19,6 +19,7 @@
     - NOTE:run this command in this subdirectory before using the app for the first time in COMMAND PROMPT(by `npm start`) : `set NODE_OPTIONS=--openssl-legacy-provider`
 
 ## getting started when we have to again only run the app
+- `npm i react-scripts@latest`
 - `npm update`
 - `npm install`
 - `npm update`
