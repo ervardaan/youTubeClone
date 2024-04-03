@@ -15,7 +15,16 @@
   - now install dependencies(in one folder above-not in this app subdirectory)
         - install axios for making api calls using `npm i --save axios`
         - install material ui's core: `npm i --save material-ui`
+        - actually we can install material ui using `npm install @material-ui/core`
     - NOTE:run this command in this subdirectory before using the app for the first time in COMMAND PROMPT(by `npm start`) : `set NODE_OPTIONS=--openssl-legacy-provider`
+
+## getting started when we have to again only run the app
+- `npm update`
+- `npm install`
+- `npm update`
+- `npm fund`
+- `npm audit fix --force`
+
  # SAMPLE MESSAGE AFTER ALL OF THE REACT APP IS SET UP
  ![image](https://github.com/ervardaan/youTubeClone/assets/86986617/f96b677b-83ac-4a81-bfd3-0e875ec5fd65)
 
