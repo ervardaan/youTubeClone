@@ -19,4 +19,8 @@
  # SAMPLE MESSAGE AFTER ALL OF THE REACT APP IS SET UP
  ![image](https://github.com/ervardaan/youTubeClone/assets/86986617/f96b677b-83ac-4a81-bfd3-0e875ec5fd65)
 
+ ## USING API ROM YOU TUBE
+ - create a project using a google account in google developers console
+ - authenticate it and enable to use you tube v3 api out of 3 available you tube apis
+
 
